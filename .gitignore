@@ -1,0 +1,17 @@
+# Local source material, not published
+SPEC.md
+CHEAT-INTEL.md
+RIVO-PROJECT-GLASSBOX.md
+scratchpad/
+my-version/
+
+# Rust
+/target
+**/*.rs.bk
+
+# OS and editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
